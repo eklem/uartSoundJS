@@ -1,4 +1,4 @@
-# UART by sound
+# uart-sound-js
 
 WIP *UART - Universal Asynchronous Receiver and Transmitter* by sound. In JavaScript from browser to browser.
 
