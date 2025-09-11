@@ -27,5 +27,5 @@ UART-signal [EidenNor](https://commons.wikimedia.org/w/index.php?title=User:Eide
 
 ## Demo
 
-* uart-tx.html - A page with a test- + a text input and a transmit-button
-* uart-rx.html - A page with a tune + a receive-button
+* `uart-tx.html` - A page with a test- + a text input and a transmit-button
+* `uart-rx.html` - A page with a tune + a receive-button
