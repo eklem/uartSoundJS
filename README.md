@@ -29,3 +29,11 @@ UART-signal [EidenNor](https://commons.wikimedia.org/w/index.php?title=User:Eide
 
 * `uart-tx.html` - A page with a test- + a text input and a transmit-button
 * `uart-rx.html` - A page with a tune + a receive-button
+
+## Dev setup
+
+* `npx serve` - in demo/experiment folder in a terminal window
+* open a panel in VSCode, click Ports-tab and Forward a Port
+* Choose 3000
+* Open in browser
+* Open browser on phone and look at sync-tab to find URL
