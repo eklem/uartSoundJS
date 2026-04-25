@@ -32,6 +32,8 @@ UART-signal [EidenNor](https://commons.wikimedia.org/w/index.php?title=User:Eide
 
 ## Dev setup
 
+As described on VSCode's [Port forwading](https://code.visualstudio.com/docs/debugtest/port-forwarding) documentation.
+
 * `npx serve` - in demo/experiment folder in a terminal window
 * open a panel in VSCode, click Ports-tab and Forward a Port
 * Choose 3000
